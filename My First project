@@ -1,0 +1,22 @@
+import java.util.Scanner;
+pulic class AreaAndPerimeterOfRectangle
+{
+public static void main(string[]args){
+
+Scanner input = new scanner(System.in);
+
+System.out.println(" enter length ");
+double length=input.next();
+
+System.out.println("enter width");
+double width = input.next();
+
+Area= lengt*Width;
+Peri=2*(length*width);
+
+System.out.println("The area is "+Area);
+System.out.println("The peri is "+Peri);
+
+}
+  }
+
